@@ -11,7 +11,7 @@ namespace DemoClientWCF
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+            “1111111111111111111111111”;
         }
     }
 }
